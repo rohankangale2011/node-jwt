@@ -1,6 +1,5 @@
 var jwt = require("jsonwebtoken");
 var config = require("../config");
-var url = require('url');
 
 /**
  * Fucntion for verifying the token against each api call
