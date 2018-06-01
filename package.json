@@ -1,0 +1,19 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "description": "node jwt implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "rohan kangale",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.2.1"
+  }
+}
